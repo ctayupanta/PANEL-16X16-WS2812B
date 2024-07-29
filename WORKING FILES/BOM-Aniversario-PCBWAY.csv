@@ -1,0 +1,24 @@
+Reference;Value;Footprint;Link Vendor;Cdad
+BOOT1;~;Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS;https://www.lcsc.com/product-detail/Tactile-Switches_C-K-PTS636SK25SMTRLFS_C2689642.html;1
+C1, C3;100nF;Capacitor_SMD:C_0805_2012Metric;https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805B104K500NT_C38141.html;2
+C2;4.7uF;Capacitor_SMD:C_0805_2012Metric;https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805B475K100NT_C2857993.html;1
+C4;1 uF;Capacitor_SMD:C_0805_2012Metric;https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805B105M250AT_C2857989.html;1
+C5, C7, C8;0.1uF;Capacitor_SMD:C_0805_2012Metric;https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html;3
+C6;10uF;Capacitor_SMD:C_0805_2012Metric;https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805X106M250NT_C190442.html;1
+C9, C12;10 uF;Capacitor_SMD:C_0805_2012Metric;https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805X106M250NT_C190442.html;2
+C10, C11;0.1 uF;Capacitor_SMD:C_0805_2012Metric;https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html;2
+D1;LED ROJO;LED_SMD:LED_0805_2012Metric;https://www.lcsc.com/product-detail/Light-Emitting-Diodes-span-style-background-color-ff0-LED-span_YONGYUTAI-YLED0805R_C19171391.html;1
+D2-D257;~;led-WS2812B-2020:LED-WS2812B-2020;https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-2020_C965555.html;256
+J1;Conn_01x07_Pin;Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical;;1
+J2;Conn_01x02_Pin;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;;1
+P1;USB_C_Plug_USB2.0;Connector_USB:USB_C_Receptacle_GCT_USB4110;https://www.lcsc.com/product-detail/span-style-background-color-ff0-USB-span-Connectors_hanxia-HX-TYPE-C-16P-QT-WT_C5178544.html;1
+Q1, Q2;s8050;Package_TO_SOT_SMD:SOT-23;https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_JSMSEMI-S8050_C916390.html;2
+R1;1M;Resistor_SMD:R_0805_2012Metric;https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RT0805FRE071ML_C869268.html;1
+R2, R3;150;Resistor_SMD:R_0805_2012Metric;https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_Milliohm-HoLTT0805-1-8W-150R-5_C2904555.html;2
+R4;10K;Resistor_SMD:R_0805_2012Metric;https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_VO-FCR0805J10K_C5913195.html;1
+R5;10k;Resistor_SMD:R_0805_2012Metric;https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_VO-FCR0805J10K_C5913195.html;1
+R6;330R;Resistor_SMD:R_0805_2012Metric;https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_YAGEO-RT0805BRE07330RL_C865990.html;1
+RESET1;~;Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS;https://www.lcsc.com/product-detail/Tactile-Switches_C-K-PTS636SK25SMTRLFS_C2689642.html;1
+U1;CP2102N-A02-GQFN28;CP2102N-A02:QFN50P500X500X80-29N;https://www.lcsc.com/product-detail/USB-ICs_SKYWORKS-SILICON-LABS-CP2102N-A02-GQFN28R_C964632.html;1
+U2;ESP32-S3-WROOM-1;PCM_Espressif:ESP32-S3-WROOM-1;https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N8_C2913198.html;1
+U3;3.3v 1A;Package_TO_SOT_SMD:SOT-223-3_TabPin2;https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Diodes-Incorporated-AZ1117CH-3-3TRG1_C92102.html;1

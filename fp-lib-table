@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "led-WS2812B-2020")(type "KiCad")(uri "${KIPRJMOD}/led-WS2812B-2020.pretty")(options "")(descr ""))
+  (lib (name "CP2102N-A02")(type "KiCad")(uri "C:/Users/chris/OneDrive/Documentos/FUNPYTHON/PCB KICAD/FPY/SMART-HOME-CONTROLLER-ESP32/SMART-HOME-CONTROLLER-ESP32-V2/CP2102N-A02-GQFN28/CP2102N-A02.pretty")(options "")(descr ""))
+)
